@@ -1,0 +1,17 @@
+@import "./vars.css";
+
+
+.App {
+  background-color: var(--color-bg);
+  background-image: url(../assets/nav/parkay-floor.svg);
+  background-repeat: repeat;
+  /* background-size: cover; */
+  background-blend-mode:soft-light;
+
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: -1;
+  background-position:center, top;
+ 
+}

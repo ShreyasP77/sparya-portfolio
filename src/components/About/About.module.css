@@ -1,0 +1,143 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  background-color: var(--color-shade-bg);
+  box-shadow: 0 0 4px 0 var(--color-shade-secondary);
+  border-radius: 15px;
+  padding: 53px;
+  margin-top: 109px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: var(--font-size-mini-full);/**/
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.content {
+  display: flex;
+  /* flex-direction: row; */
+  flex-direction: column;
+  align-items: center;
+}
+
+.aboutImage{
+  width: 35%;
+  padding: 20px;
+}
+#imgMview {
+  display: none;
+}
+
+.aboutItems {
+  color: var(--color-text);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.aboutItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 20px;
+  list-style: none;
+  padding: 25px;
+
+
+  /* background-image: linear-gradient(
+    90deg,
+    var(--color-shade-primary) 0%,
+    rgba(255, 255, 255, 0.03) 100%
+  ); */
+
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  transition: 0.4s;
+}
+
+.aboutItem h3 {
+  font-size: var(--font-size-small-full);
+  font-weight: 600;
+}
+
+.aboutItem h4{
+  font-weight: 100;
+  font-size: var(--font-size-small-mview);
+  font-family: var(--font-rancho);
+  padding-top: 5px;
+}
+
+.grade{
+  font-weight:bold;
+  font-family: var(--font-rancho);
+  font-size: 17px;
+}
+
+
+.aboutItem p {
+  font-size: var(--font-size-small-full);
+  font-family: var(--font-redressed);
+
+}
+
+@media screen and (max-width: 1000px) { /**/
+  .container {
+    padding: 24px;
+  }
+.aboutItem{
+  padding: 8px;
+}
+  .content {
+    flex-direction: column;
+  }
+
+  /* .aboutImage {
+   
+    flex-direction: column;
+  } */
+  #imgDview{
+    display: none;
+  }
+  #imgMview{
+    display: block;
+    width:210px;
+    padding-bottom: 10px;
+  }
+
+
+  .title{
+    font-size: var(--font-size-mini-mview);
+  }
+  .aboutItem p , .aboutItem h3{
+    font-size: var(--font-size-small-mview);
+
+  }
+
+  .aboutItem h4{
+    font-size: 16px;
+  }
+  
+  .grade{
+    font-size: 15px;
+  }
+}
+
+
+@media screen and (max-width: 275px) {
+  .aboutItem {
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+  #imgMview{
+    display: block;
+    width:180px;
+    padding-bottom: 10px;
+  }
+}

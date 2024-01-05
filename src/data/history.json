@@ -1,0 +1,11 @@
+[
+  {
+    "role": "Freelance Technical Content Writer",
+    "organisation": "GeeksForGeeks",
+    "startDate": "June, 2023",
+    "endDate": "Present",
+    "experiences": ["Improvised few articles for geeksforgeeks.org on core computer science subjects such as Theory of Computation", 
+    "Wrote an article related to Blockchain on Testing of Smart Contracts. "],
+    "imageSrc": "history/gfg.png"
+  }
+]

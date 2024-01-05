@@ -1,0 +1,18 @@
+[
+  {
+    "title": "bVote",
+    "imageSrc": "projects/bVote.png",
+    "description": "Developed a blockchain based voting system to carry secure and tamper – proof voting.",
+    "skills": ["Solidity", "Ethers.js", "Hardhat", "ReactJS","Metamask"],
+    "demo": "https://drive.google.com/file/d/1DuKBAlIZ26V2T7CrJNADM5iUKq-3vr4W/view?usp=sharing",
+    "source": "https://github.com/ShreyasP77/bVote"
+  },
+  {
+    "title": "weatherSee",
+    "imageSrc": "projects/weatherSee.png",
+    "description": " Developed a Progressive Web App using ReactJS and OpenWeatherMap API which is easily installable on your desktops or mobile phones.",
+    "skills": ["ReactJS", "PWA", "OpenWeatherMap API", "CSS"],
+    "demo": "https://get-weather101.netlify.app/",
+    "source": "https://github.com/ShreyasP77/weatherSee"
+  }
+]

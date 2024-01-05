@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Noto+Serif&family=Playfair+Display&display=swap');
+
+
+:root {
+    /* Colours */
+    /* --color-text: #fff;
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-dark: #0b2447;
+    --color-bg: #04152d;
+   */
+    /* --color-text: #4e3300;
+    --color-primary: #ffb924;
+    --color-secondary: #f5dd3f;
+    --color-dark: #ffe29d;
+    --color-bg: #f4f4e3; */
+
+    --color-text: #388087;
+    --color-primary: #6fb3b8;
+    --color-secondary: #badfe7;
+    --color-dark: #c2edce;
+    --color-bg: #f6f6f2;
+
+    --color-shade-dark: #c2edcef1;
+    --color-shade-secondary: #badfe786;
+    --color-shade-bg:#f6f6f295;
+    --color-shade-primary:#d2ebec98;
+
+    --color-shade-primary-gradient:#d2ebec2e;
+    --color-shade-dark-variant:#caf8e6a8;
+
+    --color-shade-text-dark: #214e51;
+    --lightblk: #b3d1d3fd;
+    --blk: #214e51;
+
+    /* Fonts */
+    --font-roboto:'Noto serif', serif;
+    --font-rancho: 'EB Garamond', serif;
+    --font-redressed:'Playfair Display', serif;
+    
+
+    --font-size-mega-full: 48px;
+    --font-size-max-full: 35px;
+    --font-size-mini-full: 28px;
+    --font-size-small-full: 22px;
+
+    --font-size-mega-mview: 38px;
+    --font-size-max-mview: 31px;
+    --font-size-mini-mview: 25px;
+    --font-size-small-mview: 18px;
+
+
+
+
+
+
+  }
+  
