@@ -9,7 +9,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Shreyas Parkar</h1>
+        <h1 className={styles.title}>Hello, I'm Shreyas Parkar</h1>
         <p className={styles.description}>
         Aspiring freelance developer and blockchain enthusiast, skilled in DApps,React and NodeJS, 
         actively seeking job opportunities to apply my skills—let's connect for potential collaborations!
