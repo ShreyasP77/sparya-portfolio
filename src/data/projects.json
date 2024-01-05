@@ -1,5 +1,12 @@
 [
   {
+    "title": "Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Created my personal portfolio website to showcase my skills, projects and academic excellences",
+    "skills": ["HTML", "CSS", "ReactJS"],
+    "demo": "https://sparya-portfolio.netlify.app/",
+    "source": "https://github.com/ShreyasP77/sparya-portfolio"
+  },{
     "title": "bVote",
     "imageSrc": "projects/bVote.png",
     "description": "Developed a blockchain based voting system to carry secure and tamper – proof voting.",
