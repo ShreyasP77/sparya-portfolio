@@ -3,9 +3,19 @@
     "role": "Freelance Technical Content Writer",
     "organisation": "GeeksForGeeks",
     "startDate": "June, 2023",
-    "endDate": "Present",
-    "experiences": ["Improvised few articles for geeksforgeeks.org on core computer science subjects such as Theory of Computation", 
+    "endDate": "Feb 2024",
+    "experiences": ["Improvised few articles for geeksforgeeks.org on core computer science subjects such as Theory of Computation.", 
     "Wrote an article related to Blockchain on Testing of Smart Contracts. "],
+    "imageSrc": "history/gfg.png"
+  },
+  {
+    "role": "Software Enginer",
+    "organisation": "TCS",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Contributed to migrating an existing codebase to Spring Boot and Angular 16."
+"Developed RESTful APIs, including pagination and accordion functionality, adhering to best practices for both frontend and backend."
+"Assisted in analyzing requirements and efficiently resolving client issues."],
     "imageSrc": "history/gfg.png"
   }
 ]
