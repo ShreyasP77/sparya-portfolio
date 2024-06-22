@@ -13,9 +13,9 @@
     "organisation": "TCS",
     "startDate": "Jan, 2024",
     "endDate": "Present",
-    "experiences": ["Contributed to migrating an existing codebase to Spring Boot and Angular 16."
-"Developed RESTful APIs, including pagination and accordion functionality, adhering to best practices for both frontend and backend."
+    "experiences": ["Contributed to migrating an existing codebase to Spring Boot and Angular 16.",
+"Developed RESTful APIs, including pagination and accordion functionality, adhering to best practices for both frontend and backend.",
 "Assisted in analyzing requirements and efficiently resolving client issues."],
-    "imageSrc": "history/gfg.png"
+    "imageSrc": "history/TCS_logo.png"
   }
 ]
