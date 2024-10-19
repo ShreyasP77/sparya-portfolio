@@ -5,9 +5,14 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 20px;
   padding-top: 61px;
   z-index: 2;
-  margin: 0 10%;
+  margin: 7px 1% 7%;
+  border-radius: 0 50px 0 50px;
+  border: 3px solid #cad0f8;
+  background-color: var(--blk);
+  color: aquamarine;
 }
 
 .logo{
@@ -30,7 +35,7 @@ height:50px;
 
 .menuItems a {
   font-size: var(--font-size-small-full);
-  color: var(--color-text);
+  color: var(--color-bg);
   text-decoration: none;
 }
 
@@ -99,6 +104,8 @@ height:50px;
 
   .menuItems a {
     font-size: var(--font-size-small-mview);
+    color: var(--color-text);
+
   }
 
   .menuOpen {

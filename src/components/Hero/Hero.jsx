@@ -24,8 +24,8 @@ export const Hero = () => {
         alt="exploring Job Opportunities"
         className={styles.heroImg}
       />
-      <div className={styles.topBlur} />
-      <div className={styles.bottomBlur} />
+      {/* <div className={styles.topBlur} />
+      <div className={styles.bottomBlur} /> */}
     </section>
   );
 };

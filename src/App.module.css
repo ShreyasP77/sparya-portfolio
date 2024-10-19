@@ -3,7 +3,7 @@
 
 .App {
   background-color: var(--color-bg);
-  background-image: url(../assets/nav/parkay-floor.svg);
+  /* background-image: url(../assets/nav/parkay-floor.svg); */
   background-repeat: repeat;
   /* background-size: cover; */
   background-blend-mode:soft-light;
